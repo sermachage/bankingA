@@ -71,4 +71,4 @@ public class User {
     public InvestmentAccount getInvestmentAccount() {
         return investmentAccount;
     }
-}m
+}
